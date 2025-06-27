@@ -1,5 +1,22 @@
 # 💫 About Me:
-🌟 I’m currently working on<br>Projets en Machine Learning et Data Science<br>🤝 I’m looking to collaborate on<br>Projects related to Machine Learning or deep learning, especially involving Python, TensorFlow...<br>🌱 I’m currently learning<br>Building ETL pipelines and developing APIs for data management and analysis solutions.<br>💬 Ask me about<br>My experience with supervised and unsupervised Machine Learning, LLMs and statistical analysis.<br>⚡ Fun fact<br>I’m passionate about finding innovative data science solutions to transform data into strategic opportunities!
+🌟 Je travaille actuellement sur
+Des projets en Intelligence Artificielle, notamment autour de la théorie des signatures, des LLMs, du NLP et de l’apprentissage profond.
+
+🤝 Je cherche à collaborer sur
+Des projets en Data Science, Machine Learning ou Deep Learning, notamment en Python (TensorFlow, PyTorch, Scikit-learn), ou dans des contextes de recherche appliquée.
+
+🎓 Statut actuel
+🎓 Récemment diplômé — Data Scientist & Ingénieur IA Junior, spécialisé en IA, NLP, analyse fonctionnelle et robustesse des modèles.
+🔍 Actuellement en recherche active d’un CDI dans la Data Science ou l’Intelligence Artificielle.
+
+🌱 J’approfondis actuellement mes compétences en
+Développement de solutions complètes incluant pipelines MLOps, traitement de séries temporelles complexes, XAI et adaptation de domaine.
+
+💬 Interrogez-moi sur
+Mon expérience avec les modèles supervisés et non supervisés, le traitement du signal, la théorie des signatures, la gestion des données déséquilibrées, et les méthodes explicables.
+
+⚡ Le petit plus
+Je suis passionné par la création de solutions IA fiables, innovantes et robustes, avec une forte composante mathématique et une volonté d’impact réel.
 
 
 ## 🌐 Socials:
