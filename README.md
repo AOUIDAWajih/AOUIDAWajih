@@ -7,6 +7,7 @@ Des projets en Data Science, Machine Learning ou Deep Learning, notamment en Pyt
 
 🎓 Statut actuel
 🎓 Récemment diplômé — Data Scientist & Ingénieur IA Junior, spécialisé en IA, NLP, analyse fonctionnelle et robustesse des modèles.
+
 🔍 Actuellement en recherche active d’un CDI dans la Data Science ou l’Intelligence Artificielle.
 
 🌱 J’approfondis actuellement mes compétences en
