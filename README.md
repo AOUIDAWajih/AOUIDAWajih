@@ -1,23 +1,50 @@
-# 💫 About Me:
-🌟 Je travaille actuellement sur
-Des projets en Intelligence Artificielle, notamment autour de la théorie des signatures, des LLMs, du NLP et de l’apprentissage profond.
+# 💫 Profil / Profile
 
-🤝 Je cherche à collaborer sur
-Des projets en Data Science, Machine Learning ou Deep Learning, notamment en Python (TensorFlow, PyTorch, Scikit-learn), ou dans des contextes de recherche appliquée.
+## 🇫🇷 Français
 
-🎓 Statut actuel
-🎓 Récemment diplômé — Data Scientist & Ingénieur IA Junior, spécialisé en IA, NLP, analyse fonctionnelle et robustesse des modèles.
+🌟 **Je travaille actuellement sur**  
+Des projets en Intelligence Artificielle, notamment autour de la théorie des signatures, des LLMs, du NLP et de l’apprentissage profond.  
 
-🔍 Actuellement en recherche active d’un CDI dans la Data Science ou l’Intelligence Artificielle.
+🤝 **Je cherche à collaborer sur**  
+Des projets en Data Science, Machine Learning ou Deep Learning, notamment en Python (TensorFlow, PyTorch, Scikit-learn), ou dans des contextes de recherche appliquée.  
 
-🌱 J’approfondis actuellement mes compétences en
-Développement de solutions complètes incluant pipelines MLOps, traitement de séries temporelles complexes, XAI et adaptation de domaine.
+🎓 **Statut actuel**  
+🎓 Récemment diplômé — Data Scientist & Ingénieur IA Junior, spécialisé en IA, NLP, analyse fonctionnelle et robustesse des modèles.  
 
-💬 Interrogez-moi sur
-Mon expérience avec les modèles supervisés et non supervisés, le traitement du signal, la théorie des signatures, la gestion des données déséquilibrées, et les méthodes explicables.
+🔍 **Actuellement en recherche active d’un CDI** dans la Data Science ou l’Intelligence Artificielle.  
 
-⚡ Le petit plus
-Je suis passionné par la création de solutions IA fiables, innovantes et robustes, avec une forte composante mathématique et une volonté d’impact réel.
+🌱 **J’approfondis actuellement mes compétences en**  
+Développement de solutions complètes incluant pipelines MLOps, traitement de séries temporelles complexes, XAI et adaptation de domaine.  
+
+💬 **Interrogez-moi sur**  
+Mon expérience avec les modèles supervisés et non supervisés, le traitement du signal, la théorie des signatures, la gestion des données déséquilibrées, et les méthodes explicables.  
+
+⚡ **Le petit plus**  
+Je suis passionné par la création de solutions IA fiables, innovantes et robustes, avec une forte composante mathématique et une volonté d’impact réel.  
+
+---
+
+## 🇬🇧 English
+
+🌟 **Currently working on**  
+Artificial Intelligence projects, particularly in signature theory, LLMs, NLP, and deep learning.  
+
+🤝 **Looking to collaborate on**  
+Data Science, Machine Learning, or Deep Learning projects, mainly in Python (TensorFlow, PyTorch, Scikit-learn), or in applied research contexts.  
+
+🎓 **Current status**  
+🎓 Recently graduated — Data Scientist & Junior AI Engineer, specialized in AI, NLP, functional analysis, and model robustness.  
+
+🔍 **Actively seeking a full-time position** in Data Science or Artificial Intelligence.  
+
+🌱 **Currently deepening my skills in**  
+Developing end-to-end solutions including MLOps pipelines, complex time series processing, XAI, and domain adaptation.  
+
+💬 **Ask me about**  
+My experience with supervised and unsupervised models, signal processing, signature theory, imbalanced data handling, and explainable methods.  
+
+⚡ **Fun fact / Extra**  
+I am passionate about building reliable, innovative, and robust AI solutions, with a strong mathematical foundation and a drive for real-world impact.  
 
 
 ## 🌐 Socials:
