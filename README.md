@@ -56,4 +56,7 @@ I am passionate about building reliable, innovative, and robust AI solutions, wi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AOUIDAwajih&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AOUIDAWajih&show_icons=true&theme=vue)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
