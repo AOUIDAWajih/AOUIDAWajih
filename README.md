@@ -56,7 +56,7 @@ I am passionate about building reliable, innovative, and robust AI solutions, wi
 ![](https://github-readme-stats.vercel.app/api?username=AOUIDAWajih&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AOUIDAWajih&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AOUIDAWajih&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude})
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aouidawajih&theme=tokyonight)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
