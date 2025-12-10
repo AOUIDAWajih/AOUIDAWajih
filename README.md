@@ -58,5 +58,4 @@ I am passionate about building reliable, innovative, and robust AI solutions, wi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AOUIDAWajih&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aouidawajih&theme=tokyonight)
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
